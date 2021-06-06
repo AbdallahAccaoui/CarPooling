@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javafx"/>
+	<classpathentry kind="lib" path="java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_101/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_101/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/sqljdbc_6.4/enu/mssql-jdbc-6.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_101/lib/apache-commons-lang.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
